@@ -5,7 +5,7 @@
 #define TRIG 8 // Echo pin
 #define ECHO 7 // Trig pin
 
-//NOTE: remeber to use 220 ohm resistors
+//NOTE: remember to use 220 ohm resistors
 
 int redLED = 11; // Red LED pin
 int greenLED = 12; // Green LED pin
